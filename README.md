@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chenyuli1992
+- 👋 Hi, I’m Chenyu Li
 - 👀 I’m interested in seismology, earthquakes, machine learning, statistics
 - 💞️ I’m looking to collaborate on machine learning in seismology
 - 📫 How to reach me lchenyu1992@gmail.com
